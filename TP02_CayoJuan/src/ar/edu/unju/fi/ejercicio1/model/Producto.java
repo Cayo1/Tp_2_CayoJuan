@@ -75,7 +75,7 @@ public class Producto {
     }
 
     public enum Categoria {
-        TELEFONIA, INFORMATICA, ELECTROHOGAR, HERRAMIENTAS
+        TELEFONIA, INFORMATICA, ELECTROHOGAR, HERRAMIENTAS, ELECTRO_HOGAR
     }
 }
 
